@@ -1,0 +1,14 @@
+.footer{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e2dfdf;
+    background: radial-gradient(circle, #ffffff, #f1f3f2);
+
+}
+
+  
+
+  
